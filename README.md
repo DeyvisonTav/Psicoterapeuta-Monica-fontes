@@ -28,14 +28,14 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 
 ## ⚙️ Funcionalidades
 
--   [x] clientes podem ver os serviços por ela disponibilizados
-  - [x] ter acesso a um formulario
-  - [x] ter acesso para contado via, whatsapp e email
-  - [x] acesso a localização através do google maps nos locais onde ela costuma atender
-  - [x] Os usuários tem acesso ao site inteiramente responsivo ou seja podendo acessar por:
-  - [x] pc/notebooks
-  - [x] tablets
-  - [x] celulares
+- [x] clientes podem ver os serviços por ela disponibilizados
+- [x] ter acesso a um formulario
+- [x] ter acesso para contado via, whatsapp e email
+- [x] acesso a localização através do google maps nos locais onde ela costuma atender
+- [x] Os usuários tem acesso ao site inteiramente responsivo ou seja podendo acessar por:
+- [x] pc/notebooks
+- [x] tablets
+- [x] celulares
 
 ---
 
@@ -81,9 +81,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 
 ## 🦸 Autor
+
 <br/>
 <a href="https://github.com/DeyvisonTav">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101512004?v=4" width="100px;" alt=""/>
+ <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/101512004?v=4" width="100px;" alt=""/>
  <br />
  <br/>
  <sub><b>Deyvison Tavares</b></sub>🚀</a>
@@ -94,6 +95,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Gmail Badge](https://img.shields.io/badge/-deyvisontav@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deyvisontav.com)](mailto:deyvisontav@gmail.com)
 
 ---
+
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
